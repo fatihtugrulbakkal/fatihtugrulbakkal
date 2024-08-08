@@ -15,7 +15,7 @@ Web geliştirme, mobil uygulama geliştirme veya ilgi alanlarıma uygun heyecan 
 
 ## Benimle İletişime Geçin
 Aşağıdaki kanallar aracılığıyla bana ulaşabilirsiniz:
-- GitHub: [fatihtugrulbakka](https://github.com/fatihtugrulbakkal)
+- GitHub: [fatihtugrulbakkal](https://github.com/fatihtugrulbakkal)
 - E-posta: [info@axtr.com.tr]
 - LinkedIn: [LinkedIn Profiliniz](https://www.linkedin.com/in/fatihtugrulbakkal)
 
